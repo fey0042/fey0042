@@ -39,7 +39,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.feiyan.zapto.org"><img alt="Website" src="https://img.shields.io/badge/Website-www.feiyan.zapto.org-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://feiyan.zapto.org"><img alt="Website" src="https://img.shields.io/badge/Website-www.feiyan.zapto.org-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/fey0042/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fei%20Yan-blue?style=flat-square&logo=linkedin"></a>
 <a href="langgufei@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-langgufei@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
