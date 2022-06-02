@@ -1,4 +1,4 @@
-<h2> Kia ora!  I'm Fei. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="5px" /> </h2>
+<h2> Kia ora! I'm Fei </h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
