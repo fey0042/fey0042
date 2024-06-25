@@ -2,11 +2,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.
-- 🎓 &nbsp; I'm currently in the final year of Bachelor of ICT at ARA Canterbury 👨‍🎓
-- 💼 &nbsp; I’m currently working on Full Stack Development projects.
+- 🤔 &nbsp; I like to explore new technologies and develop testing solutions and quick hacks.
+- 🎓 &nbsp; I got the Bachelor of ICT at ARA Canterbury 👨‍🎓
+- 💼 &nbsp; I’m currently working as a Test Engineer.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Machine Learning and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Competitive Programming and Data Analysis.
+- ✍️ &nbsp; Pursuing Competitive Testing, Programming and Data Analysis.
 - 💬 &nbsp; Ask me about anything and everything.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
